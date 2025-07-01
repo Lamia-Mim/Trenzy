@@ -74,11 +74,11 @@ Customers can browse, filter, and purchase products, while admins manage orders,
 
 | 👤 Name                | 🆔 Student ID   | 🔗 GitHub Profile             |
 |------------------------|----------------|-------------------------------|
-| Mahmudul Hasan         | 2212209042     | [![GitHub](https://img.shields.io/badge/-Aasifffff-181717?logo=github&style=flat-square)](https://github.com/Aasifffff) |
+| Lamia Islam Mim        |2212085042      | [![GitHub](https://img.shields.io/badge/-Lamia--Mim-181717?logo=github&style=flat-square)](https://github.com/Lamia-Mim)  |
 | Modassir Hasan         | 2111443642     | [![GitHub](https://img.shields.io/badge/-Modassir--Hasan-181717?logo=github&style=flat-square)](https://github.com/Modassir-Hasan) |
-| Syed Tashriful Alam    | 2222222        | [![GitHub](https://img.shields.io/badge/-Tashrif67-181717?logo=github&style=flat-square)](https://github.com/Tashrif67) |
-| Mahabub Ahmed          | 22222777       | [![GitHub](https://img.shields.io/badge/-Mahabub21-181717?logo=github&style=flat-square)](https://github.com/Mahabub21) |
-| Lamia Islam Mim        | 2212085042     | [![GitHub](https://img.shields.io/badge/-Lamia--Mim-181717?logo=github&style=flat-square)](https://github.com/Lamia-Mim) |
+| Syed Tashriful Alam    | 2212623042     | [![GitHub](https://img.shields.io/badge/-Tashrif67-181717?logo=github&style=flat-square)](https://github.com/Tashrif67) |
+| Mahabub Ahmed          | 2212618642     | [![GitHub](https://img.shields.io/badge/-Mahabub21-181717?logo=github&style=flat-square)](https://github.com/Mahabub21) |
+| Mahmudul Hasan         | 2212209042     |  [![GitHub](https://img.shields.io/badge/-Aasifffff-181717?logo=github&style=flat-square)](https://github.com/Aasifffff) |
 
 </div>
 
@@ -90,19 +90,19 @@ Customers can browse, filter, and purchase products, while admins manage orders,
 
 <div align="center">
 
-- ✨ <b>Propose Features:</b> Suggest improvements or request features  
-- 🔧 <b>Submit Pull Requests:</b> Fork, branch, and PR your changes!  
-- 📝 <b>Improve Documentation:</b> Help keep our README and docs clear and up-to-date  
+ ✨ <b>Propose Features:</b> Suggest improvements or request features  
+ 🔧 <b>Submit Pull Requests:</b> Fork, branch, and PR your changes!  
+ 📝 <b>Improve Documentation:</b> Help keep our README and docs clear and up-to-date  
 
 ### 🧾 Contribution Steps
 
-. Fork the repository  
-. Create a new branch  
+-  Fork the repository  
+-  Create a new branch  
    <code>git checkout -b feature-name</code>  
-. Commit your changes  
+-  Commit your changes  
    <code>git commit -m "Description of changes"</code>  
-. Push to your fork  
+-  Push to your fork  
    <code>git push origin feature-name</code>  
-. Open a pull request
+-  Open a pull request
 
 </div>
