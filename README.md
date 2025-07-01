@@ -19,7 +19,7 @@
 <h2 align="center">🌐 Overview</h2>
 
 <p align="center">
-<b>Trenzy</b> is a secure and scalable full-stack e-commerce platform developed as a final year project for the <b>CSE327 Software Engineering</b> course. <br />
+<b>Trenzy</b> is a secure and scalable full-stack e-commerce platform developed as a project for the <b>CSE327 Software Engineering</b> course. <br />
 Built using the <b>MERN stack</b>, it’s tailored to provide an efficient and modern shopping experience for Bangladeshi users.
 </p>
 
