@@ -1,16 +1,27 @@
-
 import React, { useState } from 'react';
-
+import { Routes, Route } from 'react-router-dom'
 
 import Navbar from './components/Navbar'
 import Sidebar from './components/Sidebar'
-import { Routes, Route } from 'react-router-dom'
 import Add from './pages/Add'
 import List from './pages/List'
 import Orders from './pages/Orders'
 import Login from './components/Login'
 
+/**
+ * Base URL of the backend server, loaded from environment variables.
+ * @constant {string}
+ */
 export const backendUrl = import.meta.env.VITE_BACKEND_URL
+
+/**
+ * Root component for the admin panel of the Trenzy app
+ * Shows admin dashboard (Navbar,sidebar & routed pages)
+ * Displays login page
+ * 
+ * @component
+ * @returns {JSX.Element}
+ */
 
 
 const App = () => {
