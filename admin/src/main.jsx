@@ -4,6 +4,12 @@ import './index.css'
 import App from './App.jsx'
 import { BrowserRouter } from 'react-router-dom'
 
+/**
+ * Renders the root of the app
+ * Wraps the app component with BrowseRouter to enable routing
+ */
+
+
 ReactDOM.createRoot(document.getElementById('root')).render(
   <BrowserRouter> 
  
