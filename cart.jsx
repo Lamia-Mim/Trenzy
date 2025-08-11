@@ -72,7 +72,7 @@ return (
 
         </div>
   )
-}
+} 
 
 export default cart
 
