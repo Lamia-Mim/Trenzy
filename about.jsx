@@ -2,6 +2,20 @@ import React from 'react'
 import Title from '../components/Title'
 import {assests} from '../assets/assets'
 
+/**
+ * About page component
+ * 
+ * @description
+ * It displays the "About US" section of the home page, including:
+ * - Company story
+ * - Mission  Syatement
+ * - Reason to choose the brand, also
+ * - Quality Assurance, Convenience, Exceptional Customer Service
+ * 
+ * @component
+ * @returns {JSX.Element} The About page UI
+ */
+
 const About = () => {
   return (
     <div>
