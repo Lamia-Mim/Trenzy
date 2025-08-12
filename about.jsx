@@ -8,7 +8,7 @@ import { assests } from '../assets/assets'
  * @description
  * It displays the "About US" section of the home page, including:
  * - Company story
- * - Mission  Syatement
+ * - Mission  Statement
  * - Reason to choose the brand, also
  * - Quality Assurance, Convenience, Exceptional Customer Service
  * 
