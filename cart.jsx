@@ -3,10 +3,10 @@ import {shopContext} from '../context/shopContext'
 import Title from '../components/Title';
 import {assets} from '../assets/assets';
 import {CartTotal} from '../components/CartTotal';
-
+{/* Display the cart data on the cart page*/}
 const cart = () => {
 
-const {products, currency,cartItems} = useContext(shopContext);
+const {products, currency, cartItems} = useContext(shopContext);
 
 const [cartData, setCartData] = useState([]);
 
@@ -19,7 +19,7 @@ for(const items in cartItems){
             tempData.push({
                 _id: items,
                 size:item,
-                quantity: cartItems[items][item]
+                quantity:cartItems[items][item]
             })
         }
      }
@@ -60,7 +60,7 @@ return (
             })
         } 
         </div>
-
+{/* Display the cart total with checkout button*/}
          <div className='flex justify-end my-20'>
             <div className='w-full sm:w-[450px]'>
                 <CartTotal/>
