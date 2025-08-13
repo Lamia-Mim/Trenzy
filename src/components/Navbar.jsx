@@ -1,3 +1,4 @@
+
 import React, { useContext, useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import { assets } from '../assets/assets';
@@ -59,3 +60,27 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
+import React from 'react'
+import { assets } from '../assets/assets'
+
+/**
+ * Displaying the Logo and Logout button
+ * @component
+ * @returns {JSX.Element} The navigation bar UI
+ */
+
+const Navbar = () => {
+
+    return (
+
+        <div className='flex items-center py-2 px-[4%] justify-between'>
+            <img className='w-[max(10%,60px)]' src={assets.logo} alt="" />
+            <button className='bg-gray-600 text-white px-5 py-2 sm:px-7 sm:py-2 rounded-full text-xs sm:text-sm'> Logout </button>
+        </div>
+
+    )
+
+}
+export default Navbar
+ Admin-Features
