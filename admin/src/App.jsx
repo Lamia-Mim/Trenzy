@@ -13,6 +13,7 @@ import Login from './components/Login'
  * @constant {string}
  */
 export const backendUrl = import.meta.env.VITE_BACKEND_URL
+export const currency = '$'
 
 /**
  * Root component for the admin panel of the Trenzy app

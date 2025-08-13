@@ -72,7 +72,7 @@ describe('Product Controller', () => {
       const res = mockRes();
       productModel.find.mockResolvedValueOnce([{ name: 'Test Product' }]);
       await listProducts(req, res);
-      expect(res.json).toHaveBeenCalledWith({ success: true, products: [{ name: 'Test Product' }] });
+      expect(res.json).toHaveBeenCalledWith({ success: true, products: [{ name: 'Test Product' }] }); 
 
     });
 
